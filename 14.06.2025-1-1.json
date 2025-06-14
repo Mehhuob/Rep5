@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Davis",
+    "age": 45,
+    "address": {
+        "street": "Copeland Meadows",
+        "city": "North Randallshire",
+        "state": "Georgia",
+        "zip": "64329"
+    },
+    "contact": {
+        "phone": "+1-860-216-1237x48039",
+        "servicePhone": "800686766"
+    },
+    "birthday": "1980-30-07",
+    "ip": "58.39.35.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Computer stand toward most chair kitchen. Feeling leader common trade crime. Group traditional seek carry attention always.",
+        "bio": "Same item significant cup drive. But person blood seem. Leg popular skin growth old poor natural.\nSound cut author discuss difficult."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
