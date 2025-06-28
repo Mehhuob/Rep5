@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Mcdaniel",
+    "age": 22,
+    "address": {
+        "street": "Parsons Road",
+        "city": "Carlystad",
+        "state": "Missouri",
+        "zip": "57163"
+    },
+    "contact": {
+        "phone": "293.452.3246x96530",
+        "servicePhone": "800274910"
+    },
+    "birthday": "2003-03-04",
+    "ip": "212.104.126.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Film scientist month democratic fund. Pattern opportunity writer talk themselves truth news road. Happen industry over traditional heart step role.",
+        "bio": "Choice outside serious garden draw themselves state. I deep world east professional figure. Create main me fight.\nWhich let out visit. Citizen worker future through."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
