@@ -1,0 +1,25 @@
+{
+    "name": "Julie Diaz",
+    "age": 3,
+    "address": {
+        "street": "Collins Ports",
+        "city": "Lake Jenniferberg",
+        "state": "Virginia",
+        "zip": "76595"
+    },
+    "contact": {
+        "phone": "968-396-1544x85885",
+        "servicePhone": "800631498"
+    },
+    "birthday": "2022-09-03",
+    "ip": "21.134.212.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Spend college former against. None positive reveal perhaps medical three. Quite when mean its avoid person action.\nPeace base exist city hard military operation with. Actually important next food.",
+        "bio": "Foot leg record goal pattern in stand. Walk begin piece white act send. Drug receive hit level."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
