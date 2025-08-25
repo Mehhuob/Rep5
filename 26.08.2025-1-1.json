@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Carter",
+    "age": 0,
+    "address": {
+        "street": "John Gateway",
+        "city": "Lake Danielland",
+        "state": "Tennessee",
+        "zip": "65923"
+    },
+    "contact": {
+        "phone": "698-572-0655x841",
+        "servicePhone": "800350029"
+    },
+    "birthday": "2025-23-05",
+    "ip": "117.31.45.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Production third theory role type soon. Significant ball possible technology skill follow prove leader.",
+        "bio": "Position expect generation interest area sing husband. Economic debate feel.\nOther task day program cover interest tend notice. Fact glass friend guess learn."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
