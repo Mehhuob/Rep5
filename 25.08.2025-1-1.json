@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Hardy",
+    "age": 14,
+    "address": {
+        "street": "Martinez Union",
+        "city": "New Heather",
+        "state": "New Mexico",
+        "zip": "15171"
+    },
+    "contact": {
+        "phone": "657.882.8473x466",
+        "servicePhone": "800256616"
+    },
+    "birthday": "2011-10-04",
+    "ip": "54.18.100.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Foot prevent according seat. Paper fish ground leg agreement. Little cell perhaps bed vote change change.",
+        "bio": "Sound standard house next right in chance. Left mother network great structure approach.\nParticularly eight air cover. Whom class account bit small blue."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
