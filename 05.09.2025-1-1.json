@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Harris",
+    "age": 110,
+    "address": {
+        "street": "John Meadow",
+        "city": "West Ariana",
+        "state": "Kansas",
+        "zip": "28488"
+    },
+    "contact": {
+        "phone": "+1-272-306-8199x030",
+        "servicePhone": "800485074"
+    },
+    "birthday": "1915-15-08",
+    "ip": "92.36.231.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Personal itself ago forward where. Discuss none effect.",
+        "bio": "Democrat well key man serious produce from question.\nUs determine me. Accept world wish economic or.\nTax fly then realize. Wife west mother marriage story. Operation three Congress its could item."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
