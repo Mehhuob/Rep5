@@ -1,0 +1,25 @@
+{
+    "name": "Justin Green",
+    "age": 39,
+    "address": {
+        "street": "Wolfe Unions",
+        "city": "Jonesview",
+        "state": "Alaska",
+        "zip": "09190"
+    },
+    "contact": {
+        "phone": "001-638-410-6340x138",
+        "servicePhone": "800293617"
+    },
+    "birthday": "1986-15-01",
+    "ip": "138.100.30.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Current quickly letter. Machine money single anyone which offer. Into health stuff. Development child modern system.",
+        "bio": "Physical worry while over view conference. Available believe reach. Single region even explain where consider main article."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
