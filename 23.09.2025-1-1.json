@@ -1,0 +1,25 @@
+{
+    "name": "Marissa Johnson",
+    "age": 36,
+    "address": {
+        "street": "Casey Inlet",
+        "city": "Lake Melissaside",
+        "state": "Tennessee",
+        "zip": "36914"
+    },
+    "contact": {
+        "phone": "001-248-981-9410x26084",
+        "servicePhone": "800184807"
+    },
+    "birthday": "1989-24-01",
+    "ip": "114.164.191.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear continue scene hard foreign laugh. Practice boy grow three turn will walk. Age note radio usually general.\nBuy discover your. Professional allow toward how job.",
+        "bio": "Six own play adult student activity. Number instead owner my.\nThrow recent operation action two our. Network approach nearly public rule. Main must his management order think natural early."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
